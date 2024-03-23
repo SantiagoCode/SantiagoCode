@@ -1,8 +1,8 @@
 <h1 align="center">Hello, I'm Santiago</h1>
 <h3 align="center">A passionate Frontend developer with 2 year of experience and soon a Fullstack developer</h3>
 
-- 🔭 I’m currently working on [my personal page](https://github.com/SantiagoCode/personal-page)
-- 🌱 I’m currently practicing and learning **ReactJS and NextJS.**
+- 🔭 I’m currently working on [my portfolio](https://github.com/SantiagoCode/personal-page)
+- 🌱 I’m currently practicing and learning **React, Angular and Vue.**
 - 🤝 I'm looking to help with **interesting projects**
 - 👨‍💻 All of my projects are available at [https://github.com/SantiagoCode](https://github.com/SantiagoCode)
 - 💬 You can ask me about **CSS and ReactJS**
