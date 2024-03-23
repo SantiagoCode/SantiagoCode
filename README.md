@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Santiago</h1>
-<h3 align="center">A passionate Frontend developer with 2 year of experience and soon a Fullstack developer</h3>
+<h3 align="center">A passionate Frontend developer and sometimes a Fullstack developer...</h3>
 
 - 🔭 I’m currently working on [my portfolio](https://github.com/SantiagoCode/personal-page)
 - 🌱 I’m currently practicing and learning **React, Angular and Vue.**
