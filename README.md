@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend developer and sometimes a Fullstack developer...</h3>
 
 - 🔭 I’m currently working on [my portfolio](https://github.com/SantiagoCode/personal-page)
-- 🌱 I’m currently practicing and learning **React, Angular and Vue.**
+- 🌱 I’m currently practicing and learning **Laravel and some VueJS*
 - 🤝 I'm looking to help with **interesting projects**
 - 👨‍💻 All of my projects are available at [https://github.com/SantiagoCode](https://github.com/SantiagoCode)
 - 💬 You can ask me about **CSS and ReactJS**
