@@ -1,12 +1,12 @@
 <h1 align="center">Hello, I'm Santiago</h1>
 <h3 align="center">A passionate Frontend developer and sometimes a Fullstack developer...</h3>
 
-- 🔭 I’m currently working on [my portfolio](https://github.com/SantiagoCode/personal-page)
+- 🔭 I am currently working on a [Laravel Practice](https://github.com/SantiagoCode/administrative-system)
 - 🌱 I’m currently practicing and learning **Laravel and some VueJS**
 - 🤝 I'm looking to help with **interesting projects**
-- 👨‍💻 All of my projects are available at [https://github.com/SantiagoCode](https://github.com/SantiagoCode)
-- 💬 You can ask me about **CSS and ReactJS**
-- 📫 How to reach me **santiagosalazar.dev@gmail.com**
+- 👨‍💻 All my most interesting projects are available at [my portfolio](https://github.com/SantiagoCode/personal-page)
+- 💬 You can ask me about **CSS and JavaScript**
+- 📫 You can contact me by sending me an email to [santiagosalazar.dev@gmail.com](mailto:santiagosalazar.dev@gmail.com)
 
 <h3 align="left">Languages and Tools:</h3>
 
