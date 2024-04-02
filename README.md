@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Santiago</h1>
 <h3 align="center">A passionate Frontend developer and sometimes a Fullstack developer...</h3>
 
-- 🔭 I am currently working on a [Laravel Practice](https://github.com/SantiagoCode/administrative-system)
+- 🔨 I am currently working on a [Laravel Practice](https://github.com/SantiagoCode/administrative-system)
 - 🌱 I’m currently practicing and learning **Laravel and some VueJS**
 - 🤝 I'm looking to help with **interesting projects**
 - 👨‍💻 All my most interesting projects are available at [my portfolio](https://github.com/SantiagoCode/personal-page)
