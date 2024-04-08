@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Santiago</h1>
+<h1 align="center">Hello, I'm Santiago <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 <h3 align="center">A passionate Frontend developer and sometimes a Fullstack developer...</h3>
 
 - 🔨 I am currently working on a [Laravel Practice](https://github.com/SantiagoCode/administrative-system)
