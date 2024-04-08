@@ -10,4 +10,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,sass,tailwind,bootstrap,bulma,react,next,git,github,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,sass,tailwind,bootstrap,react,next,git,github,gitlab)](https://skillicons.dev)
