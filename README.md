@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Santiago <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 <h3 align="center">A passionate Frontend developer and sometimes a Fullstack developer...</h3>
 
-- 🔨 I am currently participating in a [hackathon](https://github.com/SantiagoCode/UniverseExplorer) with my friends
+- 🔨 I am currently creating a [CRUD API with Laravel v11](https://github.com/SantiagoCode/laravel-crud-api)
 - 🌱 I’m currently practicing and learning **Laravel and some VueJS**
 - 🤝 I'm looking to help with **interesting projects**
 - 👨‍💻 All my most interesting projects are available at [my portfolio](https://github.com/SantiagoCode/personal-page)
