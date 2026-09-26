@@ -7,4 +7,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=laravel,html,css,javascript,sass,tailwind,bootstrap,react,git,cicd)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,javascript,react)](https://skillicons.dev)
