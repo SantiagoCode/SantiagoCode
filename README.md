@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Santiago <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
-<h3 align="center">A passionate web developer</h3>
+<h3 align="center">A passionate FullStack Developer</h3>
 
 - 🤝 I'm looking to help with **interesting projects**
 - 👨‍💻 All my most interesting projects are available at [my portfolio](https://github.com/SantiagoCode/personal-page)
